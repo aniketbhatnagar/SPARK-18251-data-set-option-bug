@@ -1,4 +1,4 @@
-name := """apache-spark-2-scala-starter-template"""
+name := """SPARK-18251-data-set-option-bug"""
 
 version := "1.0"
 
